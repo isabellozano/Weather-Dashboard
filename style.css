@@ -1,0 +1,25 @@
+nav {
+    background-color: rgb(41, 41, 51);
+}
+
+.waves-effect {
+    background-color: rgb(0, 81, 255);
+}
+
+.waves-light {
+    background-color: rgb(0, 81, 255) ;
+}
+
+.waves-ripple {
+    background-color: grey;
+}
+
+h5 {
+    position: relative;
+    color:  rgb(41, 41, 51);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.input-field {
+    position: fixed;
+}
